@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "948552239601",
+    "firebase_url": "https://apart-94e35.firebaseio.com",
+    "project_id": "apart-94e35",
+    "storage_bucket": "apart-94e35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948552239601:android:e225a30de77ab064741c50",
+        "android_client_info": {
+          "package_name": "com.example1.apart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948552239601-9a6bod3h5l55dolhd9vp4pjr7hba8u6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8y9g7bLWLUDhIJwF22D6VQoUQr0NBwm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948552239601-9a6bod3h5l55dolhd9vp4pjr7hba8u6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
