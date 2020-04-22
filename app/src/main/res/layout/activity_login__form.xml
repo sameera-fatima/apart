@@ -55,18 +55,6 @@
         android:layout_marginTop="25dp"
         android:onClick="btn_Signup_Form"/>
 
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="60dp"
-        android:id="@+id/web"
-        android:text="Web"
-        android:textSize="22sp"
-        android:textColor="#ffffff"
-        android:background="@drawable/button_rounded"
-        android:layout_marginTop="25dp"
-        android:onClick="btn_web"/>
-        />
-
 
 
 

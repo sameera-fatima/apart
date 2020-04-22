@@ -9,7 +9,7 @@ import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
-public class web extends Activity {
+public class web extends Activity  {
 
     public WebView webView;
 
@@ -26,12 +26,6 @@ public class web extends Activity {
         webView.loadUrl("https://www.timeanddate.com/worldclock/india");
         webView.setWebViewClient(new WebViewClient());
 
-
-
-        //WebView webview =new WebView(this);
-        //setContentView(webview);
-        // webview.loadUrl("3.16.1.63:5000/");
-        //webview.loadUrl("https://www.timeanddate.com/worldclock/india");
 
     }
 }
